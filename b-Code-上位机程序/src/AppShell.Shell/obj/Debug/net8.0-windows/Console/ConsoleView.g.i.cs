@@ -114,7 +114,7 @@ namespace AppShell.Shell.Console {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/AppShell.Shell;component/console/consoleview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/AppShell.Shell;V1.0.0.0;component/console/consoleview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Console\ConsoleView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
