@@ -1,0 +1,62 @@
+PASS Cold start idle
+PASS Lower CAD capacity
+PASS Measured upper capacity
+PASS Nonblank 3D viewport: 01-idle-1440 colors=232
+PASS Button available: 快速联调
+PASS Button not occluded: 快速联调
+PASS Nonblank 3D viewport: recipe-quick colors=232
+PASS Button available: 开始循环
+PASS Button not occluded: 开始循环
+PASS Up half transfer
+PASS Nonblank 3D viewport: 02-up colors=236
+PASS Button available: 暂停
+PASS Button not occluded: 暂停
+PASS UI pause closes pump
+PASS UI pause freezes volume
+PASS Nonblank 3D viewport: 03-paused colors=229
+PASS Button available: 暂停
+PASS Button not occluded: 暂停
+PASS Natural return
+PASS Nonblank 3D viewport: 04-natural colors=227
+PASS Vacuum acceleration
+PASS Nonblank 3D viewport: 05-vacuum colors=227
+PASS Button available: 软件停止
+PASS Button not occluded: 软件停止
+PASS UI stop closes pumps
+PASS Button available: 开始循环
+PASS Button not occluded: 开始循环
+PASS Cycle complete and conserved
+PASS Aborted and completed history persisted
+PASS Nonblank 3D viewport: 06-complete colors=232
+PASS Nonblank 3D viewport: view-0 colors=232
+PASS Nonblank 3D viewport: view-1 colors=252
+PASS Nonblank 3D viewport: view-2 colors=290
+PASS Nonblank 3D viewport: view-3 colors=320
+PASS Nonblank 3D viewport: view-4 colors=198
+PASS Nonblank 3D viewport: 07-idle-1280 colors=201
+PASS Button available: 配方
+PASS Button not occluded: 配方
+PASS Nonblank 3D viewport: 08-recipes colors=201
+PASS Button available: 记录
+PASS Button not occluded: 记录
+PASS Nonblank 3D viewport: 09-history colors=201
+PASS Button available: 设置
+PASS Button not occluded: 设置
+PASS Nonblank 3D viewport: 10-settings colors=201
+PASS UpperWater volume inversion 0
+PASS UpperWater level bounded 0
+PASS UpperWater volume inversion 0.5
+PASS UpperWater level bounded 0.5
+PASS UpperWater volume inversion 1
+PASS UpperWater level bounded 1
+PASS Water volume inversion 0
+PASS Water level bounded 0
+PASS Water volume inversion 0.5
+PASS Water level bounded 0.5
+PASS Water volume inversion 1
+PASS Water level bounded 1
+PASS Recipe save and rename
+PASS Recipe deletion
+PASS History reload
+PASS Corrupt storage backup recovery
+PASS No Unity runtime errors

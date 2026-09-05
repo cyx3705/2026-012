@@ -1,0 +1,9 @@
+{
+  "cup_ray_samples": 16256,
+  "min_inner_clearance_mm": 0.028757562187828323,
+  "min_outer_clearance_mm": 0.05994999999998918,
+  "channel_capacity_litres": 0.08711804902115133,
+  "max_wet_gap_mm": 0.6300000000000056,
+  "connector_boundary": "CAD contains open/reversed faces; a 0.63 mm wet gap follows the outer clearance boundary, not the entire connector cavity.",
+  "lip_segment_collisions": []
+}

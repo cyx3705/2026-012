@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="../Assets/Scripts/Control/TwinTypes.cs" />
+    <Compile Include="../Assets/Scripts/Control/SequenceRunner.cs" />
+    <Compile Include="../Assets/Scripts/Control/BrewSimulation.cs" />
+    <Compile Include="../Assets/Scripts/Control/HydraulicModel.cs" />
+    <Compile Include="../Assets/Scripts/Control/AnnularChannelProfile.cs" />
+    <None Include="../Assets/Resources/AnnularChannel.json" Link="AnnularChannel.json" CopyToOutputDirectory="PreserveNewest" />
+    <Compile Include="Program.cs" />
+  </ItemGroup>
+</Project>

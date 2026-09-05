@@ -1,0 +1,38 @@
+# Unity 生成物，不入库
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# 由 Unity 自动生成的 IDE 工程文件
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.opendb
+*.VC.db
+.vs/
+.idea/
+
+# 构建产物
+*.apk
+*.aab
+*.unitypackage
+*.app
+sysinfo.txt
+crashlytics-build.properties
+
+# Required source files and Unity dependency manifests.
+!Tests/*.csproj
+!Packages/
+!Packages/**
